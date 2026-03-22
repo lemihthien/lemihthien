@@ -4,7 +4,7 @@ Hi 👋 My name is Thien Le
 Web Developer and Designer
 --------------------------
 
-I have about 5 years of experience in web application development in a product company. I am fortunate to be involved in most of my company's end-to-end software development processes.
+I have about 7 years of experience in web application development in a product company. I am fortunate to be involved in most of my company's end-to-end software development processes.
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Thien Le Minh | Kenji Akito](http:///thienlm.com/)
